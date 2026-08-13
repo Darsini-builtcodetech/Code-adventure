@@ -1,3 +1,2 @@
 # Code-adventure
-one
-two
+blast
